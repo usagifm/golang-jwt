@@ -51,3 +51,5 @@ jalankan perintah
 go run *.go
 ```
 untuk meng-serve aplikasi dengan terminal
+
+Dokumentasi endpoint ada pada file json Golang JWT REST API.postman_collection.json, lakukan import collection pada aplikasi Postman untuk menampilkan semua dokumentasi.
